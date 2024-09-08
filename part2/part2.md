@@ -52,5 +52,5 @@ def account(id):
 ```
 
 Теперь давайте перейдем по маршруту ```account``` и через слеш укажем рандомное число, например 666.
-Мы увидим следующее:
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThejmwKaSdHRIvI4IPLvGudxHKM92fKiSDuA&s)
+Мы увидим следующее:  
+![](1.png)
