@@ -40,7 +40,8 @@ def index():
 Перейдя по маршруту ```/about``` увидим:  
 ![](images/account_id.png)
   
-  
+----
+
 Давайте также перейдем по маршруту ```account/```  
 ![](images/account.png)
 
