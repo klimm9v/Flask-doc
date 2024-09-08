@@ -53,4 +53,4 @@ def account(id):
 
 Теперь давайте перейдем по маршруту ```account``` и через слеш укажем рандомное число, например 666.
 Мы увидим следующее:
-![](/home/linus/Flask-Doc/part2)
+![](/home/linus/Flask-Doc/part2/1.png)
