@@ -39,7 +39,7 @@ def index():
 
 Перейдя по маршруту ```/about``` увидим:  
 ![](images/account_id.png)
-  
+<hr>
 Давайте также перейдем по маршруту ```account/```  
 ![](images/account.png)
 
